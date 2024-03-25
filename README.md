@@ -61,7 +61,7 @@ Aquí algunas de las tecnologías con las que trabajo:
 Aquí tienes algunos de mis proyectos destacados:
 
 - [Curso de .NET](https://github.com/ljaramillocanas/Curso-.NET): Curso introductorio de .NET para principiantes.
-- [Mesa de Ayuda ResolveX](https://github.com/ljaramillocanas/ResolveX): Sistema de mesa de ayuda para gestión de tickets.
+- [Mesa de Ayuda ResolveX](https://github.com/ljaramillocanas/helpdesk): Sistema de mesa de ayuda para gestión de tickets.
 
 ## Estadísticas
 
