@@ -13,7 +13,7 @@
       <img src="https://readme-typing-svg.herokuapp.com?font=ui-monospace&size=16&color=8E67C9&center=true&width=410&height=45&lines=Welcome+to+my+GitHub.">
       <br>
       <b>
-        ~ Penguins are your friends ~
+        ~ Dogs are your friends ~
       </b>
     </samp>
   </p>
