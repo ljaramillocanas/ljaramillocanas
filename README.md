@@ -10,7 +10,7 @@
         I'm Luis Fernando Jaramillo, I love programming and hamburgers.
       </b>
       <br>
-      <img src="https://readme-typing-svg.herokuapp.com?font=ui-monospace&size=16&color=8E67C9&center=true&width=410&height=45&lines=Welcome+to+my+GitHub.">
+      <img src="https://readme-typing-svg.herokuapp.com?font=ui-monospace&size=16&color=B51700&center=true&width=410&height=45&lines=Welcome+to+my+GitHub.">
       <br>
       <b>
         ~ Dogs are your friends ~
